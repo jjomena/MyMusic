@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.ComponentModel.DataAnnotations;
-
 namespace MyMusic_Project.Models
 {
     public class UserAccount
@@ -13,12 +12,6 @@ namespace MyMusic_Project.Models
 
         [Required(ErrorMessage = "First Name is requiered.")]
         public string FirstName { get; set; }
-
-        [Required(ErrorMessage = "Last Name is requiered.")]
-        public string LastName { get; set; }
-
-        [Required(ErrorMessage = "Email is requiered.")]
-        public string Email { get; set; }
 
         [Required(ErrorMessage = "Username is requiered.")]
         public string Username { get; set; }
@@ -31,5 +24,4 @@ namespace MyMusic_Project.Models
         [DataType(DataType.Password)]
         public string ConfirmPassword { get; set; }
     }
-
 }

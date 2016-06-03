@@ -14,10 +14,10 @@ namespace MyMusic_Project.Controllers
         {
             using (OurDbContext db = new OurDbContext())
             {
-                return View(db.userAccount.ToList());
+                return View(db.userAccount.ToList()); 
             }
+          
         }
-
 
         public ActionResult Register()
         {
@@ -35,7 +35,7 @@ namespace MyMusic_Project.Controllers
                     db.SaveChanges();
                 }
                 ModelState.Clear();
-                ViewBag.Message = account.FirstName + " " + account.LastName + " successfully registered.";
+                ViewBag.Message = account.FirstName + "Registrado de forma Exitosa";
             }
             return View();
         }
@@ -78,5 +78,4 @@ namespace MyMusic_Project.Controllers
             }
         }
     }
-
 }
