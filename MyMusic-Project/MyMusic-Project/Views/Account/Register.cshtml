@@ -1,0 +1,97 @@
+﻿@model MyMusic_Project.Models.UserAccount
+
+@{
+}
+
+<h2>Register</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="jumbotron">
+        <div class="row">
+            <div class="col-xs-12 col-md-9 col-md-offset-1">
+                <div class="panel panel-default">
+                    <div class="panel-body">               
+                        <div class="row">
+                            <div class="col-xs-12 col-md-6 col-md-offset-3"><h3>Registrar Usuario</h3></div>
+                            <br />
+                            <div class="col-xs-12 col-md-6">
+                                <div class="form-horizontal">
+                                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                                    @if (ViewBag.Message != null)
+                                    {
+                                    <div class="form-group">
+                                        <div class="col-md-10">@ViewBag.Message</div>
+                                    </div>
+                                    }
+                                    <div class="form-group">
+                                        <h5 class="control-label col-md-4">Nombre</h5>
+                                        <div class="col-md-8">
+                                            @Html.EditorFor(model => model.FirstName, new { htmlAttributes = new { @class = "form-control" } })
+                                            @Html.ValidationMessageFor(model => model.FirstName, "", new { @class = "text-danger" })
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <h5 class="control-label col-md-4">Usuario</h5>
+                                        <div class="col-md-8">
+                                            @Html.EditorFor(model => model.Username, new { htmlAttributes = new { @class = "form-control" } })
+                                            @Html.ValidationMessageFor(model => model.Username, "", new { @class = "text-danger" })
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <h5 class="control-label col-md-4">Contraseña</h5>
+                                        <div class="col-md-8">
+                                            @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control" } })
+                                            @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <h5 class="control-label col-md-4">Repita la contraseña</h5>
+                                        <div class="col-md-8">
+                                            @Html.EditorFor(model => model.ConfirmPassword, new { htmlAttributes = new { @class = "form-control" } })
+                                            @Html.ValidationMessageFor(model => model.ConfirmPassword, "", new { @class = "text-danger" })
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <h5 class="control-label col-md-4">Género</h5>
+                                        <select class="form-control col-md-8">
+                                            <option>Masculino</option>
+                                            <option>Femenino</option>
+                                        </select>
+                                    </div>
+                                    <div>
+                                        <h5 class="control-label col-md-4">Ubicación</h5>
+                                        <select class="form-control col-md-8">
+                                            <option>Costa Rica</option>
+                                            <option>Panama</option>
+                                        </select>
+                                    </div>
+                                    <div class="form-group">
+                                        <div class="col-md-offset-2 col-md-10">
+                                            <input type="submit" value="Create" class="btn btn-default" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-8 col-md-4">
+                                <a href="#" class="thumbnail">
+                                    <img src="~/content/imagenes/user.png">
+                                </a>
+                                <div class="form-group">
+                                    <label for="exampleInputFile">Modificar foto de Perfil</label>
+                                    <input type="file" id="exampleInputFile">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
