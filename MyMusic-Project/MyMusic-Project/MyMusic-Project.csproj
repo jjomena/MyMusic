@@ -158,6 +158,7 @@
     <Compile Include="Controllers\EditProfileFanController.cs" />
     <Compile Include="Controllers\FollowArtitsController.cs" />
     <Compile Include="Controllers\ProfileBandaController.cs" />
+    <Compile Include="Controllers\SeguirArtistaController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -181,6 +182,7 @@
     <Content Include="Views\EditProfileFan\Index.cshtml" />
     <Content Include="Views\ProfileBanda\Index.cshtml" />
     <Content Include="Views\FollowArtits\Index.cshtml" />
+    <Content Include="Views\SeguirArtista\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
