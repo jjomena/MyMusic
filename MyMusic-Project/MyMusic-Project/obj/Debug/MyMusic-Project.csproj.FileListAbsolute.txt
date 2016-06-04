@@ -1,0 +1,100 @@
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\obj\Debug\MyMusic-Project.csprojResolveAssemblyReference.cache
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\ApplicationInsights.config
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\roslyn\csc.exe
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\roslyn\vbc.exe
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\MyMusic-Project.dll.config
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\MyMusic-Project.dll
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\MyMusic-Project.pdb
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\EntityFramework.dll
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\EntityFramework.SqlServer.dll
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\Microsoft.AI.Web.dll
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\System.Web.Helpers.dll
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\System.Web.Mvc.dll
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\System.Web.Razor.dll
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\System.Web.Webpages.dll
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\System.Web.Webpages.Razor.dll
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\EntityFramework.xml
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\EntityFramework.SqlServer.xml
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\Microsoft.AI.Web.xml
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\System.Web.Razor.xml
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\System.Web.Webpages.xml
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\System.Web.Webpages.Razor.xml
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\System.Web.Helpers.xml
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\bin\System.Web.Mvc.xml
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\obj\Debug\MyMusic-Project.dll
+C:\Users\Joaquín\Documents\MyMusic\MyMusic-Project\MyMusic-Project\obj\Debug\MyMusic-Project.pdb
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\ApplicationInsights.config
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\roslyn\csc.exe
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\roslyn\vbc.exe
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\MyMusic-Project.dll.config
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\MyMusic-Project.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\MyMusic-Project.pdb
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\EntityFramework.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\EntityFramework.SqlServer.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\Microsoft.AI.Web.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\Microsoft.ApplicationInsights.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\System.Web.Helpers.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\System.Web.Mvc.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\System.Web.Razor.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\System.Web.Webpages.Deployment.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\System.Web.Webpages.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\System.Web.Webpages.Razor.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\EntityFramework.xml
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\EntityFramework.SqlServer.xml
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\Microsoft.AI.Web.xml
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\Microsoft.ApplicationInsights.xml
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\System.Web.Razor.xml
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\System.Web.Webpages.xml
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\System.Web.Webpages.Deployment.xml
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\System.Web.Webpages.Razor.xml
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\System.Web.Helpers.xml
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\bin\System.Web.Mvc.xml
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\obj\Debug\MyMusic-Project.csprojResolveAssemblyReference.cache
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\obj\Debug\MyMusic-Project.dll
+C:\Users\gilbe\Desktop\progra mymusic\MyMusic\MyMusic-Project\MyMusic-Project\obj\Debug\MyMusic-Project.pdb
