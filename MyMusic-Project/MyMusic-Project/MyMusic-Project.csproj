@@ -156,8 +156,9 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\EditProfileFanController.cs" />
-    <Compile Include="Controllers\FollowArtitsController.cs" />
+    <Compile Include="Controllers\SeeArtitsController.cs" />
     <Compile Include="Controllers\ProfileBandaController.cs" />
+    <Compile Include="Controllers\ProfileFanController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -180,7 +181,8 @@
     <Content Include="Views\Account\Index.cshtml" />
     <Content Include="Views\EditProfileFan\Index.cshtml" />
     <Content Include="Views\ProfileBanda\Index.cshtml" />
-    <Content Include="Views\FollowArtits\Index.cshtml" />
+    <Content Include="Views\SeeArtits\Index.cshtml" />
+    <Content Include="Views\ProfileFan\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
