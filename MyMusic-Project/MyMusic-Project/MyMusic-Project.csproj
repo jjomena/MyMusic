@@ -125,6 +125,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\MyFanDB.mdf" />
+    <Content Include="App_Data\MyFanDB_log.ldf">
+      <DependentUpon>MyFanDB.mdf</DependentUpon>
+    </Content>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\imagenes\home-showcase.png" />
@@ -155,6 +159,7 @@
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\AddDiscController.cs" />
     <Compile Include="Controllers\EditProfileFanController.cs" />
     <Compile Include="Controllers\SeeArtitsController.cs" />
     <Compile Include="Controllers\ProfileBandaController.cs" />
@@ -183,6 +188,7 @@
     <Content Include="Views\ProfileBanda\Index.cshtml" />
     <Content Include="Views\SeeArtits\Index.cshtml" />
     <Content Include="Views\ProfileFan\Index.cshtml" />
+    <Content Include="Views\AddDisc\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -191,7 +197,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="App_Data\" />
+    <Folder Include="SQLSquemas\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
