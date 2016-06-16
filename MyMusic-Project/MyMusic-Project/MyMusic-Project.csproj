@@ -169,7 +169,10 @@
     </Compile>
     <Compile Include="Models\OurDbContext.cs" />
     <Compile Include="Models\UserAccount.cs" />
+    <Compile Include="ObjetosDeTransferencia\Entidades\Login.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utilidad\FachadaUtilidad.cs" />
+    <Compile Include="Utilidad\Seguridad\AlgoritmosEncritacion\Encriptacion.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\web.config" />

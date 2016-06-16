@@ -22,15 +22,6 @@ namespace MyMusic_Project.Utilidad
             String encriptado = _Encriptar.GetSha256(pStrValor, pStrSemilla);
             return encriptado;// (new Encriptacion()).GetSha256(pStrValor, pStrSemilla);
         }
-        //public int ObtenerNivelDeAcceso(string sessionId)
-        //{
-        //    return (new NivelesDeAccesoUsuarios()).ObtenerNivelDeAcceso(sessionId);
-        //}
-
-        public Usuario EncriptarContrasena(Usuario oUsuario)
-        {
-            oUsuario.StrContrasena = (new Encriptacion()).GetSha256(oUsuario.StrContrasena, oUsuario.StrLogin);
-            return oUsuario;
-        }
+       
     }
 }
