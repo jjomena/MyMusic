@@ -1,13 +1,15 @@
 ﻿using Datos.ObjetosDeTransferencia;
 using System;
 using System.Collections.Generic;
+using System.Data;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace Datos.ADEntidades
 {
-    class UsuarioAD
+    class UsuarioAD : SQLConn
     {
         public int RegistrarUsuario(Fanatico pFanatico)
         {
@@ -38,8 +40,7 @@ namespace Datos.ADEntidades
             }
             catch (Exception ex)
             {
-                ManejoDeErrores.FachadaManejoErrores ManejoError = new FachadaManejoErrores();
-                ManejoError.GuardarLog(Utilitarios.Constantes.Constantes.CategoriaDeCapa.Accesosadatos, this.GetType().ToString(), MethodInfo.GetCurrentMethod().Name, ex.Message);
+                
             }
             finally
             {
