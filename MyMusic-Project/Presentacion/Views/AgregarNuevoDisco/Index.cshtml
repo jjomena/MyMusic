@@ -1,0 +1,168 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    //ejemplo de eventos en las tablas: http://www.redexperu.com/assets/js/bootstrap-table-master/docs/examples.html
+    //how show data from db: https://www.youtube.com/watch?v=NgrDTmSqqA4
+}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ 
+   
+</head>
+
+<body>
+    <div class="jumbotron">
+        <div class="row">
+
+
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h1>Agregar nuevo disco:</h1>
+                </div>
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-xs-6 col-md-6">
+                            <a href="#" class="thumbnail">
+                                <img src="~/Content/imagenes/disc.png" width="400" height="400">
+                            </a>
+                            <div class="col-xs-2 col-md-6">
+                                <div class="col-md-1 col-md-offset-2">
+                                    <button type="button" class="btn btn-default">Cambiar imagen</button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="row">
+                                <h4>Nombre Disco:</h4>
+                                <div class="col-md-9 col-md-offset-2">
+                                    <input type="text" class="form-control">
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <h4>Sello discografico:</h4>
+                                <div class="col-md-9 col-md-offset-2">
+                                    <input type="text" class="form-control">
+                                </div>
+                            </div>
+                            <div class="row">
+                                <h4>Año publicación:</h4>
+                                <div class="col-md-9 col-md-offset-2">
+                                    <input type="text" class="form-control">
+                                </div>
+                            </div>
+                            <div class="row">
+                                <h4>Genero Musical:</h4>
+                                <div class="col-md-9 col-md-offset-2">
+                                    <select class="form-control">
+                                        <option>Rock</option>
+                                        <option>Pop</option>
+                                        <option>Salsa</option>
+                                    </select>
+                                </div>
+
+
+                            </div>
+                            <div class="row">
+                                <h4>Descripcion: </h4>
+                                <div class="col-md-9 col-md-offset-2">
+                                    <textarea class="form-control" rows="7" id="comment"></textarea>
+                                </div>
+
+
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <br></br><br><br />
+                    <div class="row">
+                        <div class="col-md-5 col-sm-offset-1">
+                            <table  class="table-striped table-hover table-bordered" data-click-to-select="true" data-single-select="true" data-p>
+                                <thead>
+                                    <tr>
+                                        <th data-field="state" data-radio="true"></th>
+                                        <th align="center">Cancion</th>
+                                        <th align="center">Duracion</th>
+                                        <th align="center">en Vivo/Estudio</th>
+                                        <th align="center">Video</th>
+                                        <th align="center">Edicion Limitada</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td><input type="checkbox" /></td>
+                                        <th scope="row">1</th>
+                                        <td>Otto</td>
+                                        <td>Mark</td>
+                                        <td>Otto</td>
+                                        <td><input type="checkbox" /></td>
+                                        
+                                    </tr>
+                                    <tr>
+                                        <td><input type="checkbox" /></td>
+                                        <th scope="row">1</th>
+                                        <td>Otto</td>
+                                        <td>Markmmmmmmmmmmmmmmmmmmmmmmmmmmmm</td>
+                                        <td>Otto</td>
+                                        <td>Otto</td>
+
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <div class="checkbox">
+                                                <label>
+                                                    <input type="checkbox" />
+                                                </label>
+                                            </div>
+                                        </td>
+                                        <th scope="row">3</th>
+                                        <td>Larry</td>
+                                        <td>the Bird</td>
+                                        <td>Otto</td>
+                                        <td>
+                                            <div class="checkbox">
+                                                <label>
+                                                    <input type="checkbox">
+                                                </label>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>                                       
+                            
+                        </div>
+                        <div class="col-xs-3">
+                            <br>
+                            <div class="row">
+                                <button class="btn btn-default" type="submit">Agregar</button>
+                            </div>
+
+                            <div class="row">
+                                <button class="btn btn-default" type="submit">Modificar</button>
+                            </div>
+
+                            <div class="row">
+                                <button class="btn btn-default btn-sm" type="submit">Eliminar</button>
+                            </div>
+                        </div>
+                    </div>
+                    <br>
+                    <div class="row">
+                        <div class="col-xs-6 col-md-offset-4">
+                            <button class="btn btn-default btn-lg" type="submit">Guardar</button>
+                            <button class="btn btn-default btn-lg" type="submit">Cancelar</button>
+                        </div>
+
+                    </div>
+                </div>
+                
+                </div>
+        </div>
+    </div>
+</body>
+</html>
