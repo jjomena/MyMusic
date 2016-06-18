@@ -57,5 +57,24 @@
   <Import Condition="'$(SQLDBExtensionsRefPath)' == ''" Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
   <ItemGroup>
     <Folder Include="Properties" />
+    <Folder Include="dbo\" />
+    <Folder Include="dbo\Tables\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Build Include="dbo\Tables\TipoActividad_2.sql" />
+    <Build Include="dbo\Tables\SigueBanda_2.sql" />
+    <Build Include="dbo\Tables\Pais_2.sql" />
+    <Build Include="dbo\Tables\Integrante_2.sql" />
+    <Build Include="dbo\Tables\GenerosMusicalesFavoritos_2.sql" />
+    <Build Include="dbo\Tables\GenerosMusicales_2.sql" />
+    <Build Include="dbo\Tables\Fanatico_2.sql" />
+    <Build Include="dbo\Tables\Disco_2.sql" />
+    <Build Include="dbo\Tables\Concierto_2.sql" />
+    <Build Include="dbo\Tables\Cancion_2.sql" />
+    <Build Include="dbo\Tables\CalificacionDisco_2.sql" />
+    <Build Include="dbo\Tables\CalificacionConcierto_2.sql" />
+    <Build Include="dbo\Tables\CalificacionBanda_2.sql" />
+    <Build Include="dbo\Tables\Banda_2.sql" />
+    <Build Include="dbo\Tables\Actividad_2.sql" />
   </ItemGroup>
 </Project>

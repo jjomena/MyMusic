@@ -43,21 +43,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="ADEntidades\FanaticoAd.cs" />
+    <Compile Include="ADEntidades\UsuarioAD.cs" />
+    <Compile Include="ObjetosDeTransferencia\Fanatico.cs" />
+    <Compile Include="ObjetosDeTransferencia\Usuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Properties\Settings.Designer.cs">
+    <Compile Include="OpcionesDeConexion.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
-      <DependentUpon>Settings.settings</DependentUpon>
+      <DependentUpon>OpcionesDeConexion.settings</DependentUpon>
     </Compile>
     <Compile Include="RedesSociales\Twitter\MetodosTwitter.cs" />
     <Compile Include="RedesSociales\Twitter\PublicarTwetter.cs" />
+    <Compile Include="SQLConn.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="Properties\Settings.settings">
+    <None Include="OpcionesDeConexion.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
-      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+      <LastGenOutput>OpcionesDeConexion.Designer.cs</LastGenOutput>
     </None>
   </ItemGroup>
   <ItemGroup>
